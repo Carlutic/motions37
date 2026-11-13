@@ -1,0 +1,1258 @@
+[
+  {
+    "name": "アイマリンプロジェクト-内田彩 - Dive to Blue 精品 - DivetoBlue_dance_iMarine_R40",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/dive_to_blue/_dive_to_blue_divetobl/main.vmd",
+    "camMotionFile": "otaku/dive_to_blue/_dive_to_blue_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/cbcac52c60a5b97205c71f0b8f8fc8a9ed98ef69.mp3"
+  },
+  {
+    "name": "アイマリンプロジェクト-内田彩&竹達彩奈&三森すずこ - Marine Mirage",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/marine_mirage/_marine_mirage/main.vmd",
+    "camMotionFile": "otaku/marine_mirage/_marine_mirage/camera.vmd",
+    "expressionMotionFile": "otaku/marine_mirage/_marine_mirage/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/1aa12cb8440ede773466a1dbcab7b3ac6c114390.mp3"
+  },
+  {
+    "name": "アイマリンプロジェクト-内田彩&竹達彩奈 - Sea Breeze",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/sea_breeze/_sea_breeze/main.vmd",
+    "camMotionFile": "otaku/sea_breeze/_sea_breeze/camera.vmd",
+    "expressionMotionFile": "otaku/sea_breeze/_sea_breeze/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/8c50802a833b4ad900a4e2dd21fbcf7d38430edf.mp3"
+  },
+  {
+    "name": "アイマリンプロジェクト-内田彩 - Dive to Blue 精品 - DivetoBlue_dance_Umiko_deci_R40",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/dive_to_blue/_dive_to_blue_divetobl/main_3.vmd",
+    "camMotionFile": "otaku/dive_to_blue/_dive_to_blue_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/cbcac52c60a5b97205c71f0b8f8fc8a9ed98ef69.mp3"
+  },
+  {
+    "name": "アイマリンプロジェクト-内田彩 - Dive to Blue 精品 - DivetoBlue_dance_iMarine_deci_R40",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/dive_to_blue/_dive_to_blue_divetobl/main_5.vmd",
+    "camMotionFile": "otaku/dive_to_blue/_dive_to_blue_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/cbcac52c60a5b97205c71f0b8f8fc8a9ed98ef69.mp3"
+  },
+  {
+    "name": "アイマリンプロジェクト-内田彩&三森すずこ - Sunny Days!",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/sunny_days/_sunny_days_/main.vmd",
+    "camMotionFile": "otaku/sunny_days/_sunny_days_/camera.vmd",
+    "expressionMotionFile": "otaku/sunny_days/_sunny_days_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/70681c002fcf64d721a68c048d18e63d9d07555a.mp3"
+  },
+  {
+    "name": "アイマリンプロジェクト-内田彩 - Deep Blue Song 精品",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/deep_blue_song/_deep_blue_song_/main.vmd",
+    "camMotionFile": "otaku/deep_blue_song/_deep_blue_song_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/235d7f32bdc1ab83a6c9db445bc5dbd88e41d202.mp3"
+  },
+  {
+    "name": "Vocaloid-DECO＊27 - ヒバナ",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/ca15cd0a4919aea71a3a7d4763f05a5d27abed76.mp3"
+  },
+  {
+    "name": "ロミオとシンデレラ (SEGA VERSION)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_doriko_p_sega_version/_sega_version_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/244d6b9affb64b99ed868f70c50cde985843125e.mp3"
+  },
+  {
+    "name": "Kiss me 愛してる 2人 (1+2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/c_ute_kiss_me_kiss_me_2/kiss_me_2_1_2_/main.vmd",
+    "partnerMotionFile": "otaku/c_ute_kiss_me_kiss_me_2/kiss_me_2_1_2_/partner.vmd",
+    "camMotionFile": "otaku/c_ute_kiss_me_kiss_me_2/kiss_me_2_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/b544214b200a6435f96ed9f5cb43ce7ffdf381e3.mp3"
+  },
+  {
+    "name": "Kiss me 愛してる sex dance show 跳啪 4 girls (left + right)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/c_ute_kiss_me_kiss_me_sex_dance_show_4/kiss_me_sex_dance_show/main.vmd",
+    "partnerMotionFile": "otaku/c_ute_kiss_me_kiss_me_sex_dance_show_4/kiss_me_sex_dance_show/partner.vmd",
+    "camMotionFile": "otaku/c_ute_kiss_me_kiss_me_sex_dance_show_4/kiss_me_sex_dance_show/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/3016f80b3445a2e6c05562c6c072c09d6294e386.mp3"
+  },
+  {
+    "name": "ヒビカセ 1~3人 another patten (1+2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_1_3_another_patten/_1_3_another_patten_1_/main.vmd",
+    "partnerMotionFile": "otaku/vocaloid_p_1_3_another_patten/_1_3_another_patten_1_/partner.vmd",
+    "camMotionFile": "otaku/vocaloid_p_1_3_another_patten/_1_3_another_patten_1_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_p_1_3_another_patten/_1_3_another_patten_1_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/e8b01e6c369f78a0e76439ba35a9725403421ecf.mp3"
+  },
+  {
+    "name": "ロミオとシンデレラ 4分37秒",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_doriko_p_4_37/_4_37_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_doriko_p_4_37/_4_37_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/48180d7c25a250152feee916837536bd4ef0e378.mp3"
+  },
+  {
+    "name": "Hand In Hand 八王子P Remix 双人Ver - モーション画面向かって左",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_kz_livetune_hand_in_hand_hand/hand_in_hand_p_remix_v/main_2.vmd",
+    "camMotionFile": "otaku/vocaloid_kz_livetune_hand_in_hand_hand/hand_in_hand_p_remix_v/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/bb892820ec7852e7e2484d542c2b687f605af617.mp3"
+  },
+  {
+    "name": "アニメ「とある科学の超電磁砲」-fripSide - only my railgun (1+4)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/fripside_only_my_railgun/_fripside_only_my_rail/main.vmd",
+    "partnerMotionFile": "otaku/fripside_only_my_railgun/_fripside_only_my_rail/partner.vmd",
+    "camMotionFile": "otaku/fripside_only_my_railgun/_fripside_only_my_rail/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/f6a4c76546458d1ca3b844072caf718222624a8f.mp3"
+  },
+  {
+    "name": "ヒビカセ 2人",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_2/_2_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_2/_2_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_p_2/_2_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/e8b01e6c369f78a0e76439ba35a9725403421ecf.mp3"
+  },
+  {
+    "name": "Vocaloid-ぼーかりおどP - 1／6",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_1_6/vocaloid_p_1_6/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/ac0f9f1ef02ffccd08c3fd09a19cb7aeeb773ae2.mp3"
+  },
+  {
+    "name": "Bad Apple!! 原版双人 - 白 old",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/bad_apple_bad_apple/bad_apple_old/main_2.vmd",
+    "camMotionFile": "otaku/bad_apple_bad_apple/bad_apple_old/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/9a9a6fada47b6eb43a75d81f1eb5e0acb1691923.mp3"
+  },
+  {
+    "name": "Vocaloid-Robo - CALL ME CALL ME - call me call me teto  (テト・えんじぇぅccv)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_robo_call_me_call_me/vocaloid_robo_call_me_/main_2.vmd",
+    "camMotionFile": "otaku/vocaloid_robo_call_me_call_me/vocaloid_robo_call_me_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/ca06e14114fa987296d762cd55c9ecf4783929a8.mp3"
+  },
+  {
+    "name": "Vocaloid-れるりり - 神のまにまに 精品 (5697+5697) (2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid/vocaloid_5697_5697_/main_2.vmd",
+    "partnerMotionFile": "otaku/vocaloid/vocaloid_5697_5697_/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/a0d9d1e9195379dd76bad0a95eb1af120eaad253.mp3"
+  },
+  {
+    "name": "跳啪 3 girls (1+2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia_3_girls/_3_girls_1_2_/main.vmd",
+    "partnerMotionFile": "otaku/garnidelia_3_girls/_3_girls_1_2_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/92842babb8fb35ab9e5c88aebd6de97745436045.mp3"
+  },
+  {
+    "name": "Vocaloid-takamatt - Tokio Funka (トキヲ·ファンカ) 精品 - Tokiwo Funka Ranz",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_takamatt_tokio_funka/vocaloid_takamatt_toki/main_2.vmd",
+    "camMotionFile": "otaku/vocaloid_takamatt_tokio_funka/vocaloid_takamatt_toki/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/2b7641d6b34f3bf6a21c89953c7a85008bc52da9.mp3"
+  },
+  {
+    "name": "Vocaloid-takamatt - Tokio Funka (トキヲ·ファンカ) 精品 - Tokiwo Funka TDA no face 动作设置delay 0.6秒",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_takamatt_tokio_funka/vocaloid_takamatt_toki/main_3.vmd",
+    "camMotionFile": "otaku/vocaloid_takamatt_tokio_funka/vocaloid_takamatt_toki/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/2b7641d6b34f3bf6a21c89953c7a85008bc52da9.mp3"
+  },
+  {
+    "name": "神風",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_takamatt_tokio_funka_delay_0_/_/main_8.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/2b7641d6b34f3bf6a21c89953c7a85008bc52da9.mp3"
+  },
+  {
+    "name": "Perfume - Communication (1+2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/perfume_communication/perfume_communication_/main.vmd",
+    "partnerMotionFile": "otaku/perfume_communication/perfume_communication_/partner.vmd",
+    "camMotionFile": "otaku/perfume_communication/perfume_communication_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/822c12bb4ff4e107ad327aa667fd436841544014.mp3"
+  },
+  {
+    "name": "Vocaloid-Eve - ドラマツルギー 精品",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_eve/vocaloid_eve_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_eve/vocaloid_eve_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/550ad641cfaf2e3d8fc9dd4d80626539a4f4e7f0.mp3"
+  },
+  {
+    "name": "カゲロウデイズ by 永遠の1 (140+160)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_by_1/_by_1_140_160_/main.vmd",
+    "partnerMotionFile": "otaku/vocaloid_p_by_1/_by_1_140_160_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/4fae473dade1ba7452d554a2fc952e9c1e4ae02d.mp3"
+  },
+  {
+    "name": "Vocaloid-samfree-Lily - リリリリ★バーニングナイト",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_samfree_lily/vocaloid_samfree_lily_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_samfree_lily/vocaloid_samfree_lily_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/8326b823bc141ca5f98239498203026a9fd17a0c.mp3"
+  },
+  {
+    "name": "Hand In Hand DIVA ver - Hand In Hand DIVA",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_kz_livetune_hand_in_hand_hand/hand_in_hand_diva_ver_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/a1e8b99159f4032dba551cb962b171c7d2c6ceb8.mp3"
+  },
+  {
+    "name": "森永真由美 - follow tomorrow",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/follow_tomorrow/_follow_tomorrow/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/edc0dfc7d5e6d4529c783f4f070352439d017e63.mp3"
+  },
+  {
+    "name": "Vocaloid-れるりり - 神のまにまに 精品 (5697+5697)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid/vocaloid_5697_5697_/main.vmd",
+    "partnerMotionFile": "otaku/vocaloid/vocaloid_5697_5697_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/a0d9d1e9195379dd76bad0a95eb1af120eaad253.mp3"
+  },
+  {
+    "name": "Vocaloid-Anemone - Mirrrrrors",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_anemone_mirrrrrors/vocaloid_anemone_mirrr/main.vmd",
+    "camMotionFile": "otaku/vocaloid_anemone_mirrrrrors/vocaloid_anemone_mirrr/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/13525af6478d5a176314af51b9fcd45a6ca6984b.mp3"
+  },
+  {
+    "name": "5人motion 改 (3+4)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_mercy_5_motion/5_motion_3_4_/main.vmd",
+    "partnerMotionFile": "otaku/vocaloid_p_mercy_5_motion/5_motion_3_4_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/98fdc0fcaed2b2f98dced9a0460071beaf88ebe8.mp3"
+  },
+  {
+    "name": "ちびキャラ（ねんどろ） (1+2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_mercy/_1_2_/main.vmd",
+    "partnerMotionFile": "otaku/vocaloid_p_mercy/_1_2_/partner.vmd",
+    "camMotionFile": "otaku/vocaloid_p_mercy/_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/98fdc0fcaed2b2f98dced9a0460071beaf88ebe8.mp3"
+  },
+  {
+    "name": "１人用",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_killer_lady/_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_killer_lady/_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_p_killer_lady/_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/58ee86e363e56f20ef070e5a186e5ad98013e8ee.mp3"
+  },
+  {
+    "name": "１人用 - キラーレディソロ調整用",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_killer_lady/_/main_2.vmd",
+    "camMotionFile": "otaku/vocaloid_p_killer_lady/_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_p_killer_lady/_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/58ee86e363e56f20ef070e5a186e5ad98013e8ee.mp3"
+  },
+  {
+    "name": "Gimme x Gimme",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/sex_gimme_x_gimme/gimme_x_gimme/main.vmd",
+    "camMotionFile": "otaku/sex_gimme_x_gimme/gimme_x_gimme/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/0eb5e2b8b4aa447ca1b9a1352d41085f4506f597.mp3"
+  },
+  {
+    "name": "Vocaloid-Junky - メランコリック 精品 - メランコリック YYB式用",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_junky/vocaloid_junky_yyb_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_junky/vocaloid_junky_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_junky/vocaloid_junky_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/c8cd413a3f885ddd3f52a1975da0716dede5ede6.mp3"
+  },
+  {
+    "name": "Happy_Halloween 1~2人 by 永遠の1 优秀 (1+2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_junky_happy_halloween_happy_h/happy_halloween_1_2_by/main.vmd",
+    "partnerMotionFile": "otaku/vocaloid_junky_happy_halloween_happy_h/happy_halloween_1_2_by/partner.vmd",
+    "camMotionFile": "otaku/vocaloid_junky_happy_halloween_happy_h/happy_halloween_1_2_by/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/81e4ab9531ee374b713f25010dd54f76f2f341e5.mp3"
+  },
+  {
+    "name": "虎視眈々 三人用 changed for 男性",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_changed_for/_changed_for_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/fb10ff3f53aab733d88910f993acc41177f7f7f3.mp3"
+  },
+  {
+    "name": "tda",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_tda/tda/main.vmd",
+    "camMotionFile": "otaku/vocaloid_tda/tda/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/f66d2402f3de7355370407214b4873e90e19cefb.mp3"
+  },
+  {
+    "name": "その他",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/morning_musume_123_one_two_three/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/b80037dcc52411e7a810b57dc119ad7905a1b6d7.mp3"
+  },
+  {
+    "name": "Morning Musume - 123 (One Two Three)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/morning_musume_123_one_two_three/morning_musume_123_one/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/b80037dcc52411e7a810b57dc119ad7905a1b6d7.mp3"
+  },
+  {
+    "name": "虎視眈々 二人用 another patten by mori K R - オリジナル明香里さん（今泉）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_another_patten_by_mori_k_r/_another_patten_by_mor/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/fb10ff3f53aab733d88910f993acc41177f7f7f3.mp3"
+  },
+  {
+    "name": "Vocaloid-パトリチェフ - Angel Fish (エンゼルフィッシュ) - YUMAパート(大きいモデル用)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_angel_fish/vocaloid_angel_fish_yu/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/ed862b075652601248da11cf0ed16cf76b8c2385.mp3"
+  },
+  {
+    "name": "Vocaloid-emon(Tes.) - Dreamin Chuchu (どりーみんチュチュ) 精品 - Dreamin Chuchu",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_emon_tes_dreamin_chuchu/vocaloid_emon_tes_drea/main_2.vmd",
+    "camMotionFile": "otaku/vocaloid_emon_tes_dreamin_chuchu/vocaloid_emon_tes_drea/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/10db58940f30c1404f801130bab8ff11f59017cc.mp3"
+  },
+  {
+    "name": "Vocaloid-takamatt - Just a game",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_takamatt_just_a_game/vocaloid_takamatt_just/main.vmd",
+    "camMotionFile": "otaku/vocaloid_takamatt_just_a_game/vocaloid_takamatt_just/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/b5f3e0ff77f062f635f4c0cc9e1a4a3de13a147a.mp3"
+  },
+  {
+    "name": "Vocaloid-パトリチェフ - Angel Fish (エンゼルフィッシュ) - 明香里パート(大きいモデル用)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_angel_fish/vocaloid_angel_fish_/main_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/ed862b075652601248da11cf0ed16cf76b8c2385.mp3"
+  },
+  {
+    "name": "Shake It 3人 by わかちん 精品 - shakeit_rin",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_emon_tes_shake_it_shake_it_3_/shake_it_3_by_shakeit_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_emon_tes_shake_it_shake_it_3_/shake_it_3_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/04968fbdfe8ef9b9e18fd44be57fa2383ff60bf0.mp3"
+  },
+  {
+    "name": "Vocaloid-emon(Tes.) - Too cute",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_emon_tes_too_cute/vocaloid_emon_tes_too_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/c82ec3ef2b26d7d27d4a56078869f29be1a3e545.mp3"
+  },
+  {
+    "name": "４人用 - キラーレディ前調整バージョン",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_killer_lady/_/main_10.vmd",
+    "camMotionFile": "otaku/vocaloid_p_killer_lady/_/camera_2.vmd",
+    "expressionMotionFile": "otaku/vocaloid_p_killer_lady/_/expression_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/58ee86e363e56f20ef070e5a186e5ad98013e8ee.mp3"
+  },
+  {
+    "name": "Vocaloid-西沢さんp - 僕らの街に愛が降る夜だ",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p/vocaloid_p_/main_5.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/ccf502f61418c47567e165a8f54624423caba565.mp3"
+  },
+  {
+    "name": "Morning Musume - 123 (One Two Three) - 伊織（道重）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/morning_musume_123_one_two_three/morning_musume_123_one/main_6.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/b80037dcc52411e7a810b57dc119ad7905a1b6d7.mp3"
+  },
+  {
+    "name": "Perfume - だいじょばない (1+2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/perfume/perfume_1_2_/main.vmd",
+    "partnerMotionFile": "otaku/perfume/perfume_1_2_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/3ee41eef3be180d8e17e2964a0c89a21ef989600.mp3"
+  },
+  {
+    "name": "Vocaloid-じん(自然の敵P)-IA - オツキミリサイタル (メカクシティアクターズ) (1+2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_ia/vocaloid_p_ia_1_2_/main.vmd",
+    "partnerMotionFile": "otaku/vocaloid_p_ia/vocaloid_p_ia_1_2_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/97b394662a747ce20aafb9d1272720859789176e.mp3"
+  },
+  {
+    "name": "Vocaloid-DATEKEN - Ur-Style - UrStyleダンス(Ca_nurse)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_dateken_ur_style/vocaloid_dateken_ur_st/main_3.vmd",
+    "expressionMotionFile": "otaku/vocaloid_dateken_ur_style/vocaloid_dateken_ur_st/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/5cc5d309658d176f57e2ae23c693ddbf1f8f1690.mp3"
+  },
+  {
+    "name": "Vocaloid-DATEKEN - Ur-Style - UrStyleダンス(遠藤えみか)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_dateken_ur_style/vocaloid_dateken_ur_st/main_4.vmd",
+    "expressionMotionFile": "otaku/vocaloid_dateken_ur_style/vocaloid_dateken_ur_st/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/5cc5d309658d176f57e2ae23c693ddbf1f8f1690.mp3"
+  },
+  {
+    "name": "４人用 - キラーレディ後調整バージョン",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_killer_lady/_/main_13.vmd",
+    "camMotionFile": "otaku/vocaloid_p_killer_lady/_/camera_2.vmd",
+    "expressionMotionFile": "otaku/vocaloid_p_killer_lady/_/expression_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/58ee86e363e56f20ef070e5a186e5ad98013e8ee.mp3"
+  },
+  {
+    "name": "４人用 - キラーレディ左調整バージョン",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_killer_lady/_/main_14.vmd",
+    "camMotionFile": "otaku/vocaloid_p_killer_lady/_/camera_2.vmd",
+    "expressionMotionFile": "otaku/vocaloid_p_killer_lady/_/expression_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/58ee86e363e56f20ef070e5a186e5ad98013e8ee.mp3"
+  },
+  {
+    "name": "Vocaloid-Mitchie M - ビバハピ",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_mitchie_m/vocaloid_mitchie_m_/main_2.vmd",
+    "expressionMotionFile": "otaku/vocaloid_mitchie_m/vocaloid_mitchie_m_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/2c20c56e66a8d4d52ff4b05ba19ce5962d8b4ea0.mp3"
+  },
+  {
+    "name": "1 Model",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/sex_makes_you_a_fighter_1_model/1_model/main.vmd",
+    "camMotionFile": "otaku/sex_makes_you_a_fighter_1_model/1_model/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/eccde34e7bd019b904aedc0a186455ecc8b6e108.mp3"
+  },
+  {
+    "name": "2 Models",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/sex_makes_you_a_fighter_2_models/2_models/main.vmd",
+    "camMotionFile": "otaku/sex_makes_you_a_fighter_2_models/2_models/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/a15928fc61623f7851ca80ccbf57293ac701312b.mp3"
+  },
+  {
+    "name": "Vocaloid-R Sound Design - 帝国少女",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_r_sound_design/vocaloid_r_sound_desig/main.vmd",
+    "camMotionFile": "otaku/vocaloid_r_sound_design/vocaloid_r_sound_desig/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_r_sound_design/vocaloid_r_sound_desig/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/bf24039bab77c3691c44e0559d508c3d7717b5f0.mp3"
+  },
+  {
+    "name": "Vocaloid-Orangestar - Star night snow (スターナイトスノウ) - Tda type1",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_orangestar_star_night_snow/vocaloid_orangestar_st/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/b1952d8d38dc60fbd2326f3994d7f28de3a3e263.mp3"
+  },
+  {
+    "name": "Vocaloid-梅とら - BURNING",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_burning/vocaloid_burning/main.vmd",
+    "expressionMotionFile": "otaku/vocaloid_burning/vocaloid_burning/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/0368f925300855ceb22f00cc4c3ee6b9340b837d.mp3"
+  },
+  {
+    "name": "Vocaloid-れるりり - 神のまにまに 精品 (2972+2972) (2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid/vocaloid_2972_2972_/main_2.vmd",
+    "partnerMotionFile": "otaku/vocaloid/vocaloid_2972_2972_/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/a0d9d1e9195379dd76bad0a95eb1af120eaad253.mp3"
+  },
+  {
+    "name": "2.原曲用",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/sweet_magic_sweet_magic_1_by_2/2_/main.vmd",
+    "camMotionFile": "otaku/sweet_magic_sweet_magic_1_by_2/2_/camera.vmd",
+    "expressionMotionFile": "otaku/sweet_magic_sweet_magic_1_by_2/2_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/c820bec71e52bea62bedd40dc7cb83660fd51a16.mp3"
+  },
+  {
+    "name": "虎視眈々 二人用 another patten by mori K R - Da-little夕香里さん（鳴子）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_another_patten_by_mori_k_r/_another_patten_by_mor/main_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/fb10ff3f53aab733d88910f993acc41177f7f7f3.mp3"
+  },
+  {
+    "name": "Vocaloid-西沢さんP - Booo! - Booo!",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_booo/vocaloid_p_booo_booo_/main_2.vmd",
+    "camMotionFile": "otaku/vocaloid_p_booo/vocaloid_p_booo_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/1153541722fe0940fa4866875a936a8d26a69c1e.mp3"
+  },
+  {
+    "name": "Vocaloid-とあ - ピチカートドロップス - ピチカートドロップス（足IKあり　元のモーションです）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid/vocaloid_ik_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/12d210b801dd6b9d0eae7ca6d6f7ba99a1ca5851.mp3"
+  },
+  {
+    "name": "Vocaloid-niki - Glide 精品 (left + right)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_niki_glide/vocaloid_niki_glide_le/main.vmd",
+    "partnerMotionFile": "otaku/vocaloid_niki_glide/vocaloid_niki_glide_le/partner.vmd",
+    "camMotionFile": "otaku/vocaloid_niki_glide/vocaloid_niki_glide_le/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/d4530333492ee75c5beb1973990a640bfbab2046.mp3"
+  },
+  {
+    "name": "ロキ 1人",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_roki_1/_1_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_roki_1/_1_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/b8e524839400604d47bd4bae3021a9e363e529d8.mp3"
+  },
+  {
+    "name": "胸大きいスカート破綻しやすいモデル用調整モーション(調整：ノン様)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia_passion_passion_1_or_3_by_1/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/49904dca23ff04ea6fd05445904ea511a382debb.mp3"
+  },
+  {
+    "name": "PASSION 1人 by きあおみようじ - パッション_Tda式初音ミク・アペンドvmdサイジング",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia_passion_passion_1_by/passion_1_by_tda_vmd_/main.vmd",
+    "camMotionFile": "otaku/garnidelia_passion_passion_1_by/passion_1_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/49904dca23ff04ea6fd05445904ea511a382debb.mp3"
+  },
+  {
+    "name": "Vocaloid-DECO＊27 - リバーシブル キャンペーン - さとく式鶯丸(トレス元モデル)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/main_3.vmd",
+    "camMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/7aef5d6b1ec5d8716ddfda57a023f56ade1fa9f6.mp3"
+  },
+  {
+    "name": "Vocaloid-DECO＊27 - リバーシブル キャンペーン - Tda式改変鏡音レンアペンド",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_tda_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/7aef5d6b1ec5d8716ddfda57a023f56ade1fa9f6.mp3"
+  },
+  {
+    "name": "一騎当千 5人 by moka",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_5_by_moka/_5_by_moka/main.vmd",
+    "camMotionFile": "otaku/vocaloid_5_by_moka/_5_by_moka/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/d87d699381e323513ff62df4ef7c729bee0aac0c.mp3"
+  },
+  {
+    "name": "一騎当千 1人 by ゆり",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_1_by/_1_by_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_1_by/_1_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/d87d699381e323513ff62df4ef7c729bee0aac0c.mp3"
+  },
+  {
+    "name": "光岡昌美 - ダメよ 精品 - ひわこ式一期一振",
+    "group": "宅舞",
+    "modelMotionFile": "otaku//_/main_15.vmd",
+    "camMotionFile": "otaku//_/camera_5.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/8d1b38ec34fc82fcef6cbddd5b5e950ea132f525.mp3"
+  },
+  {
+    "name": "桃源恋歌 by moka - Lat式用",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia_1_by_moka/_by_moka_lat_/main.vmd",
+    "camMotionFile": "otaku/garnidelia_1_by_moka/_by_moka_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/92842babb8fb35ab9e5c88aebd6de97745436045.mp3"
+  },
+  {
+    "name": "一騎当千 5人 by moka - ミク",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_5_by_moka/_5_by_moka_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_5_by_moka/_5_by_moka/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/d87d699381e323513ff62df4ef7c729bee0aac0c.mp3"
+  },
+  {
+    "name": "Vocaloid-ちーむMOER - Colorful×Melody (カラフル×メロディ) - rin",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_moer_colorful_melody/vocaloid_moer_colorful/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/7e080d7d7be1c84de0d691210677d1e232e26a6e.mp3"
+  },
+  {
+    "name": "GARNiDELiA - 紅葉愛唄",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia/garnidelia_/main_3.vmd",
+    "expressionMotionFile": "otaku/garnidelia/garnidelia_/expression_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/b02a81f77a78caa23e064643efdd88b97a88aee3.mp3"
+  },
+  {
+    "name": "Vocaloid-Ken(ハピトラ) - LOL -lots of laugh-",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_ken_lol_lots_of_laugh/vocaloid_ken_lol_lots_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/fae96390bbef7c711046308941dab851212afdba.mp3"
+  },
+  {
+    "name": "ECHO by moka - len",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_crusher_p_echo_echo_by_moka/echo_by_moka_len/main.vmd",
+    "camMotionFile": "otaku/vocaloid_crusher_p_echo_echo_by_moka/echo_by_moka/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/807620046c8d99e36d686ae384f0de98935f905c.mp3"
+  },
+  {
+    "name": "KILLER LADY 双人男舞 - KL左なす式ランニング虎徹v3β（7050）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_killer_lady_killer_lady/killer_lady_kl_v3_7050/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_killer_lady_killer_lady/killer_lady_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/58ee86e363e56f20ef070e5a186e5ad98013e8ee.mp3"
+  },
+  {
+    "name": "wAVEモーション配布用（Lat式）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_niki_wave_wave_lat/wave_lat_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/774d646762c4ffdc398b423f9eb06c8fd2285d37.mp3"
+  },
+  {
+    "name": "Vocaloid-Dixie Flatline - 嘘とぬいぐるみ",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_dixie_flatline/vocaloid_dixie_flatlin/main.vmd",
+    "camMotionFile": "otaku/vocaloid_dixie_flatline/vocaloid_dixie_flatlin/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/147ebc403d13cb45250493c541717347f4b5c77b.mp3"
+  },
+  {
+    "name": "ロミオとシンデレラ by b站 吟江浪天 优秀",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_doriko_p_by_b/_by_b_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_doriko_p_by_b/_by_b_/camera.vmd"
+  },
+  {
+    "name": "PASSION 1人 or 3人 by 永遠の1 - PASSION_モーション_右",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia_passion_passion_1_or_3_by_1/passion_1_or_3_by_1_pa/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/49904dca23ff04ea6fd05445904ea511a382debb.mp3"
+  },
+  {
+    "name": "PASSION 1人 or 3人 by 永遠の1 - PASSION_モーション_左",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia_passion_passion_1_or_3_by_1/passion_1_or_3_by_1_pa/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/49904dca23ff04ea6fd05445904ea511a382debb.mp3"
+  },
+  {
+    "name": "GARNiDELiA - アブラカダブラ",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia/garnidelia_/main.vmd",
+    "camMotionFile": "otaku/garnidelia/garnidelia_/camera.vmd",
+    "expressionMotionFile": "otaku/garnidelia/garnidelia_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/cd98ba8b617e27161c910b8486b6f32b8394d66b.mp3"
+  },
+  {
+    "name": "Perfume - Communication (3)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/perfume_communication/perfume_communication_/main_2.vmd",
+    "camMotionFile": "otaku/perfume_communication/perfume_communication_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/822c12bb4ff4e107ad327aa667fd436841544014.mp3"
+  },
+  {
+    "name": "Happy Halloween 3人 by しろたび 优秀 - Happy Halloweenらぶ式ミク",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_junky_happy_halloween_happy_h/happy_halloween_3_by_h/main_2.vmd",
+    "camMotionFile": "otaku/vocaloid_junky_happy_halloween_happy_h/happy_halloween_3_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/81e4ab9531ee374b713f25010dd54f76f2f341e5.mp3"
+  },
+  {
+    "name": "Sam",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/sex_killer_b_sam/sam/main.vmd",
+    "camMotionFile": "otaku/sex_killer_b_sam/sam/camera.vmd",
+    "expressionMotionFile": "otaku/sex_killer_b_sam/sam/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/87b791405ec50a298f8428728b6877e2cba15747.mp3"
+  },
+  {
+    "name": "wAVEモーション配布用（Tda式） - Tda_R",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_niki_wave_wave_tda/wave_tda_tda_r/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/774d646762c4ffdc398b423f9eb06c8fd2285d37.mp3"
+  },
+  {
+    "name": "Vocaloid-ひとしずくP - Bad ∞ End ∞ Night - MIKU",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_bad_end_night/vocaloid_p_bad_end_nig/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/d579fec8e3bbc29f5fb93cde95058e2b943b6040.mp3"
+  },
+  {
+    "name": "Vocaloid-HoneyWorks - 金曜日のおはよう - モーション（Tda調整）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_honeyworks/vocaloid_honeyworks_td/main.vmd",
+    "camMotionFile": "otaku/vocaloid_honeyworks/vocaloid_honeyworks_/camera_2.vmd",
+    "expressionMotionFile": "otaku/vocaloid_honeyworks/vocaloid_honeyworks_/expression_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/8e4761aac1c61fcf8ffdc61b497a4a07a136c60d.mp3"
+  },
+  {
+    "name": "Love Me If You Can 2人ver old - LMIYC_right-motion",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_love_me_if_you_can_love_me_if/love_me_if_you_can_2_v/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/eb93473619591bfc4af246117043b17a2fc2d7a9.mp3"
+  },
+  {
+    "name": "Vocaloid-DECO＊27 - 乙女解剖",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/main_6.vmd",
+    "camMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/camera_2.vmd",
+    "expressionMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/expression_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/f73a3c282a32691b16fbad0dd98d331d3d5c20c8.mp3"
+  },
+  {
+    "name": "まっさらブルージーンズ Full",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/c_ute_full/_full/main.vmd",
+    "camMotionFile": "otaku/c_ute_full/_full/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/544a0eccd220a5c60f776d06c920a01d155796bb.mp3"
+  },
+  {
+    "name": "Vocaloid-Junky - ラブチーノ 精品",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_junky/vocaloid_junky_/main_3.vmd",
+    "camMotionFile": "otaku/vocaloid_junky/vocaloid_junky_/camera_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/c6f6b803e0a4d54607a0ba5d851427969ac23245.mp3"
+  },
+  {
+    "name": "Vocaloid-CRUSHER-P - Wildfire",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_crusher_p_wildfire/vocaloid_crusher_p_wil/main.vmd",
+    "camMotionFile": "otaku/vocaloid_crusher_p_wildfire/vocaloid_crusher_p_wil/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/f30a8de6cbb3ba3b04d65b2e2ddf4c636956d4a2.mp3"
+  },
+  {
+    "name": "Vocaloid-ひとしずくP - Bad ∞ End ∞ Night - RIN",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_bad_end_night/vocaloid_p_bad_end_nig/main_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/d579fec8e3bbc29f5fb93cde95058e2b943b6040.mp3"
+  },
+  {
+    "name": "Perfume - Everyday (Awa Dance) (left + right)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/perfume_everyday_awa_dance/perfume_everyday_awa_d/main.vmd",
+    "partnerMotionFile": "otaku/perfume_everyday_awa_dance/perfume_everyday_awa_d/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/15efeaef3da3c43073c729853a62474c8a3b50fc.mp3"
+  },
+  {
+    "name": "Vocaloid-ひとしずくP - Bad ∞ End ∞ Night - LUKA",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_bad_end_night/vocaloid_p_bad_end_nig/main_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/d579fec8e3bbc29f5fb93cde95058e2b943b6040.mp3"
+  },
+  {
+    "name": "彗星ハネムーン by 粉ふきスティック 精品",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_by/_by_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/ff844e423c5e9385d41181d9d846052d781a6d2a.mp3"
+  },
+  {
+    "name": "5人motion Lat配布用 - Teto",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_mercy_5_motion_lat/5_motion_lat_teto/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/98fdc0fcaed2b2f98dced9a0460071beaf88ebe8.mp3"
+  },
+  {
+    "name": "Carry Me Off motion 配布Tda用視線 - teto視線",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_carry_me_off_carry_me_off_m/carry_me_off_motion_td/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/f885f23770bc88add08b2bfc88576635cc8f7ef1.mp3"
+  },
+  {
+    "name": "5人motion Lat配布用 - Haku",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_mercy_5_motion_lat/5_motion_lat_haku/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/98fdc0fcaed2b2f98dced9a0460071beaf88ebe8.mp3"
+  },
+  {
+    "name": "疑心暗鬼モーション 2人 by ゆり",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_2_by/_2_by_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_2_by/_2_by_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_2_by/_2_by_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/9d4311947f74aee373b3fe732d109942c199ada9.mp3"
+  },
+  {
+    "name": "アイドルマスター-仁後真耶子(高槻やよい) - キラメキラリ - キラメキラリ（咲音用）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku//_/main_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/47dd7336ac59f827104eb75b54876896b4fe0c68.mp3"
+  },
+  {
+    "name": "Carry Me Off motion 配布Tda用視線 - ruka視線",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_carry_me_off_carry_me_off_m/carry_me_off_motion_td/main_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/f885f23770bc88add08b2bfc88576635cc8f7ef1.mp3"
+  },
+  {
+    "name": "Caryy me Off motion 配布Lat用 - Rin",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_carry_me_off_caryy_me_off_m/caryy_me_off_motion_la/main_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/f885f23770bc88add08b2bfc88576635cc8f7ef1.mp3"
+  },
+  {
+    "name": "Vocaloid-KIRA - Monster",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_kira_monster/vocaloid_kira_monster/main.vmd",
+    "camMotionFile": "otaku/vocaloid_kira_monster/vocaloid_kira_monster/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/4895ac5730d1ab8add0eb4de3cf118937a29bab1.mp3"
+  },
+  {
+    "name": "疑心暗鬼モーション 2人 by ゆり - gishin-anki_Y_ 0.2",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_2_by/_2_by_gishin_anki_y_0_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_2_by/_2_by_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_2_by/_2_by_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/9d4311947f74aee373b3fe732d109942c199ada9.mp3"
+  },
+  {
+    "name": "Vocaloid-DECO＊27 - 毒占欲",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/main_11.vmd",
+    "camMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/camera_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/07f26cbd666f4b9663bd128d5ca8e1573760e868.mp3"
+  },
+  {
+    "name": "PONPONPON patten2 by うp主 - あにまさ氏 鏡音レンver.1.3 PONPONPONmotion",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/ponponpon_ponponpon_patten2_by_p/ponponpon_patten2_by_p/main_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/8eb05970601b702d9d8f0e9a9aafa41501706acf.mp3"
+  },
+  {
+    "name": "Caryy me Off motion 配布Lat用 - Haku",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_carry_me_off_caryy_me_off_m/caryy_me_off_motion_la/main_5.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/f885f23770bc88add08b2bfc88576635cc8f7ef1.mp3"
+  },
+  {
+    "name": "Vocaloid-ラマーズP - 驫麤~とりぷるばか~",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p/vocaloid_p_/main_4.vmd",
+    "camMotionFile": "otaku/vocaloid_p/vocaloid_p_/camera_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/5fc89127047ea310d0d091b3ed5ff79e1e2ae932.mp3"
+  },
+  {
+    "name": "Vocaloid-八王子p - fake doll",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_fake_doll/vocaloid_p_fake_doll/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_fake_doll/vocaloid_p_fake_doll/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/c7b3f8f520097284d645187e8aad2fd0b710dba0.mp3"
+  },
+  {
+    "name": "ECHO(Stormzex Remix) by ネロの犬",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_crusher_p_echo_echo_stormzex_/echo_stormzex_remix_by/main.vmd",
+    "camMotionFile": "otaku/vocaloid_crusher_p_echo_echo_stormzex_/echo_stormzex_remix_by/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/7e7aa200c97e86b20bc4870aff01127c07ac57c5.mp3"
+  },
+  {
+    "name": "Supercell-Koeda - YEAH OH AHHH OH !",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/supercell_koeda_yeah_oh_ahhh_oh/supercell_koeda_yeah_o/main.vmd",
+    "camMotionFile": "otaku/supercell_koeda_yeah_oh_ahhh_oh/supercell_koeda_yeah_o/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/9f7da12097b31477fa013ce4f1442534acb01f5a.mp3"
+  },
+  {
+    "name": "Masked bitch (short) 双人 by 永远赤红的幼月 精品",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_masked_bitch_masked_bitch_s/masked_bitch_short_by_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_masked_bitch_masked_bitch_s/masked_bitch_short_by_/camera.vmd"
+  },
+  {
+    "name": "Vocaloid-れるりり - 神のまにまに 精品 (2972)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid/vocaloid_2972_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/a0d9d1e9195379dd76bad0a95eb1af120eaad253.mp3"
+  },
+  {
+    "name": "Vocaloid-黑うさP - カンタレラ - sora's spot",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p/vocaloid_p_sora_s_spot/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p/vocaloid_p_/camera_5.vmd",
+    "expressionMotionFile": "otaku/vocaloid_p/vocaloid_p_/expression_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/abf297f666c561ca2c64308742acb58a0a66f401.mp3"
+  },
+  {
+    "name": "MOTION_CA版 - MOTION_ca版",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_full_by_motion_ca/motion_ca_motion_ca_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_full_by_motion_ca/motion_ca_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/88254640856864c4a5858e1091cd022bd95cb400.mp3"
+  },
+  {
+    "name": "MOTION_通常版",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_full_by_motion/motion_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_full_by_motion/motion_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/88254640856864c4a5858e1091cd022bd95cb400.mp3"
+  },
+  {
+    "name": "Deep Blue Town へおいでよ 2人用 位置 カメラ (1+2)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/deep_blue_town_deep_blue_town_2/deep_blue_town_2_1_2_/main.vmd",
+    "partnerMotionFile": "otaku/deep_blue_town_deep_blue_town_2/deep_blue_town_2_1_2_/partner.vmd",
+    "camMotionFile": "otaku/deep_blue_town_deep_blue_town_2/deep_blue_town_2_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/0dfbbf0942dfa9668d369622185a29c91ff0c5cc.mp3"
+  },
+  {
+    "name": "lemon by 2人 dance ver. by 永遠の1 - lemon_肌色スカート",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/lemon_lemon_by_2_dance_ver_by_1/lemon_by_2_dance_ver_b/main_2.vmd",
+    "camMotionFile": "otaku/lemon_lemon_by_2_dance_ver_by_1/lemon_by_2_dance_ver_b/camera.vmd",
+    "expressionMotionFile": "otaku/lemon_lemon_by_2_dance_ver_by_1/lemon_by_2_dance_ver_b/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/53ea359b3026e244b872e1d760e237bf1b844ea0.mp3"
+  },
+  {
+    "name": "蜘蛛糸モノポリー",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p/_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/1a8bddd9fe350ca4ed72727f3b24457ec1de3914.mp3"
+  },
+  {
+    "name": "Vocaloid-とあ - Patchwork Staccato (ツギハギスタッカート)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_patchwork_staccato/vocaloid_patchwork_sta/main.vmd",
+    "camMotionFile": "otaku/vocaloid_patchwork_staccato/vocaloid_patchwork_sta/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/aa063976c1b52d0ddeb57f6ee839ed13498861ba.mp3"
+  },
+  {
+    "name": "Vocaloid-てぃあら - Soleil",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_soleil/vocaloid_soleil/main.vmd",
+    "camMotionFile": "otaku/vocaloid_soleil/vocaloid_soleil/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/cb3739832918a5468dff2a565495ab898859efa3.mp3"
+  },
+  {
+    "name": "アニメ「機巧少女は傷つかない」-原田いとみ&茅野愛衣&小倉唯 - 回レ!雪月花",
+    "group": "宅舞",
+    "modelMotionFile": "otaku//_/main_7.vmd",
+    "camMotionFile": "otaku//_/camera_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/bec91c8c1c2e3fe5f53f3bf7573b87bf2cd7fa4a.mp3"
+  },
+  {
+    "name": "キメラ_full",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_atols_full/_full/main.vmd",
+    "camMotionFile": "otaku/vocaloid_atols_full/_full/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/790cca4b3dcbc358d0da796faf0acb3760174f26.mp3"
+  },
+  {
+    "name": "Vocaloid-青木月光 - 夢と葉桜 - 夢と葉桜(腰有)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid/vocaloid_/main_7.vmd",
+    "camMotionFile": "otaku/vocaloid/vocaloid_/camera_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/b5ecf006e520b8533b88b49fe023aee5892d3070.mp3"
+  },
+  {
+    "name": "Vocaloid-ラマーズP - 驫麤~とりぷるばか~ - Teto Baka",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p/vocaloid_p_teto_baka/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p/vocaloid_p_/camera_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/5fc89127047ea310d0d091b3ed5ff79e1e2ae932.mp3"
+  },
+  {
+    "name": "μ's (Love Live!) - Snow Halation",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/s_love_live_snow_halation/_s_love_live_snow_hala/main.vmd",
+    "camMotionFile": "otaku/s_love_live_snow_halation/_s_love_live_snow_hala/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/0aa3e43725e2c436a4e2dd3a75baab4a9ed44ad3.mp3"
+  },
+  {
+    "name": "μ's (Love Live!) - Snow Halation - Hoshizora Rin",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/s_love_live_snow_halation/_s_love_live_snow_hala/main_4.vmd",
+    "camMotionFile": "otaku/s_love_live_snow_halation/_s_love_live_snow_hala/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/0aa3e43725e2c436a4e2dd3a75baab4a9ed44ad3.mp3"
+  },
+  {
+    "name": "Vocaloid-えへへP - なでなで",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p/vocaloid_p_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/d698f8fd0ddcd09905dd9dfd6c5bfbf7e3a1223c.mp3"
+  },
+  {
+    "name": "μ's (Love Live!) - Snow Halation - Kousaka Honoka",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/s_love_live_snow_halation/_s_love_live_snow_hala/main_9.vmd",
+    "camMotionFile": "otaku/s_love_live_snow_halation/_s_love_live_snow_hala/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/0aa3e43725e2c436a4e2dd3a75baab4a9ed44ad3.mp3"
+  },
+  {
+    "name": "Vocaloid-Otomania - Ievan Polkka (甩葱歌)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_otomania_ievan_polkka/vocaloid_otomania_ieva/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/fd40524fc6f01a4979e45c52ad34290c73f3e584.mp3"
+  },
+  {
+    "name": "蜘蛛糸モノポリー  by Namida",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_by_namida/_by_namida/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_by_namida/_by_namida/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/1a8bddd9fe350ca4ed72727f3b24457ec1de3914.mp3"
+  },
+  {
+    "name": "Vocaloid-八王子p - Mad Lovers - miku",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_mad_lovers/vocaloid_p_mad_lovers_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_mad_lovers/vocaloid_p_mad_lovers/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/b10d486e648701d46fc6ba9e3340f144c57a72aa.mp3"
+  },
+  {
+    "name": "蜘蛛糸モノポリー  by Namida - 蜘蛛糸モノポリー　イタリアver",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_by_namida/_by_namida_ver/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_by_namida/_by_namida/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/1a8bddd9fe350ca4ed72727f3b24457ec1de3914.mp3"
+  },
+  {
+    "name": "Reol - Echo",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/reol_echo/reol_echo/main.vmd",
+    "camMotionFile": "otaku/reol_echo/reol_echo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/f7a231a79bdf782a476723c4d4bef0379dfc68ab.mp3"
+  },
+  {
+    "name": "東方-藤宮ゆき,ヤヤネ - みつあみの猫",
+    "group": "宅舞",
+    "modelMotionFile": "otaku//_/main_17.vmd",
+    "camMotionFile": "otaku//_/camera_6.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/86589233bf8909d035484e0a497e6bebeb55aa05.mp3"
+  },
+  {
+    "name": "新宝島 猛男版 - 左",
+    "group": "宅舞",
+    "modelMotionFile": "otaku//_/main_12.vmd",
+    "camMotionFile": "otaku//_/camera_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/6d40b587b0db4e597a5a5efc7cd88cd148a4e695.mp3"
+  },
+  {
+    "name": "Reol - Echo - TDA式用-motion",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/reol_echo/reol_echo_tda_motion/main.vmd",
+    "camMotionFile": "otaku/reol_echo/reol_echo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/f7a231a79bdf782a476723c4d4bef0379dfc68ab.mp3"
+  },
+  {
+    "name": "Tell Your World by づなうじ - Tell Your World　足浮き補正A",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_kz_livetune_tell_your_world_t/tell_your_world_by_tel/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/9ca15452194b5b1133e54f59140d063cae3fa303.mp3"
+  },
+  {
+    "name": "４人小さいモデル用 - キラーレディ小後",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_killer_lady/_/main_8.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/58ee86e363e56f20ef070e5a186e5ad98013e8ee.mp3"
+  },
+  {
+    "name": "恋ダンス 3~5人 95秒 - 夕神",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/3_5_95/_3_5_95_/main_4.vmd",
+    "camMotionFile": "otaku/3_5_95/_3_5_95_/camera.vmd"
+  },
+  {
+    "name": "GARNiDELiA - アブラカダブラ - アブラカダブラ_目線めんぼう",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia/garnidelia_/main_2.vmd",
+    "camMotionFile": "otaku/garnidelia/garnidelia_/camera.vmd",
+    "expressionMotionFile": "otaku/garnidelia/garnidelia_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/cd98ba8b617e27161c910b8486b6f32b8394d66b.mp3"
+  },
+  {
+    "name": "恋ダンス 3~5人 95秒 - 王泥喜",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/3_5_95/_3_5_95_/main_5.vmd",
+    "camMotionFile": "otaku/3_5_95/_3_5_95_/camera.vmd"
+  },
+  {
+    "name": "Euterpe 55秒 by PROHIBITED",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/guilty_crown_egoist_euterpe_euterpe_55/euterpe_55_by_prohibit/main.vmd",
+    "camMotionFile": "otaku/guilty_crown_egoist_euterpe_euterpe_55/euterpe_55_by_prohibit/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/e9eb9d1d67432d2fd5285e587cb41ee3d24890ae.mp3"
+  },
+  {
+    "name": "疑心暗鬼モーション 1人 by DG-RINER (0+1)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_1_by_dg_riner/_1_by_dg_riner_0_1_/main.vmd",
+    "partnerMotionFile": "otaku/vocaloid_1_by_dg_riner/_1_by_dg_riner_0_1_/partner.vmd",
+    "camMotionFile": "otaku/vocaloid_1_by_dg_riner/_1_by_dg_riner_0_1_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_1_by_dg_riner/_1_by_dg_riner_0_1_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/9d4311947f74aee373b3fe732d109942c199ada9.mp3"
+  },
+  {
+    "name": "Romeo Extras",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_doriko_p_sega_version_romeo_e/romeo_extras/main.vmd",
+    "camMotionFile": "otaku/vocaloid_doriko_p_sega_version_romeo_e/romeo_extras/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_doriko_p_sega_version_romeo_e/romeo_extras/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/244d6b9affb64b99ed868f70c50cde985843125e.mp3"
+  },
+  {
+    "name": "Vocaloid-Neru - 病名は愛だった",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_neru/vocaloid_neru_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_neru/vocaloid_neru_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/80dcaeb706a7d92788466f5dc7639e8db218e57a.mp3"
+  },
+  {
+    "name": "リップシンク",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_angel_fish/_/main.vmd",
+    "expressionMotionFile": "otaku/vocaloid_angel_fish/_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/ed862b075652601248da11cf0ed16cf76b8c2385.mp3"
+  },
+  {
+    "name": "トキヲ ファンカ 全模型 动作设置delay 0.6秒 - ときおふぁんかフル（つみミク扇子）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_takamatt_tokio_funka_delay_0_/_delay_0_6_/main.vmd",
+    "expressionMotionFile": "otaku/vocaloid_takamatt_tokio_funka_delay_0_/_delay_0_6_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/2b7641d6b34f3bf6a21c89953c7a85008bc52da9.mp3"
+  },
+  {
+    "name": "六分の一リップ、表情、カメラセット",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_1_6/_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_p_1_6/_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_p_1_6/_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/ac0f9f1ef02ffccd08c3fd09a19cb7aeeb773ae2.mp3"
+  },
+  {
+    "name": "【おまけ】「目」「腕」調整用",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_atols/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/a2a2a27e3b066b3cdaabcd349560e0d9322661e1.mp3"
+  },
+  {
+    "name": "lemon by 2人 dance ver. by 永遠の1 - Lemonリップのみ_え無",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/lemon_lemon_by_2_dance_ver_by_1/lemon_by_2_dance_ver_b/main_3.vmd",
+    "camMotionFile": "otaku/lemon_lemon_by_2_dance_ver_by_1/lemon_by_2_dance_ver_b/camera.vmd",
+    "expressionMotionFile": "otaku/lemon_lemon_by_2_dance_ver_by_1/lemon_by_2_dance_ver_b/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/53ea359b3026e244b872e1d760e237bf1b844ea0.mp3"
+  },
+  {
+    "name": "Mrine Mirageリップ",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/marine_mirage_mrine_mirage/mrine_mirage_/main.vmd",
+    "expressionMotionFile": "otaku/marine_mirage_mrine_mirage/mrine_mirage_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/1aa12cb8440ede773466a1dbcab7b3ac6c114390.mp3"
+  },
+  {
+    "name": "GARNiDELiA - 紅葉愛唄 - KIU_Cemera",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/garnidelia/garnidelia_kiu_cemera/main.vmd",
+    "expressionMotionFile": "otaku/garnidelia/garnidelia_/expression_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/b02a81f77a78caa23e064643efdd88b97a88aee3.mp3"
+  },
+  {
+    "name": "Vocaloid-DECO＊27 - リバーシブル キャンペーン - ちょっとした目線",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/main_5.vmd",
+    "camMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/camera.vmd",
+    "expressionMotionFile": "otaku/vocaloid_deco_27/vocaloid_deco_27_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/7aef5d6b1ec5d8716ddfda57a023f56ade1fa9f6.mp3"
+  },
+  {
+    "name": "一騎当千 5人 by moka - クチパク",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_5_by_moka/_5_by_moka_/main_5.vmd",
+    "camMotionFile": "otaku/vocaloid_5_by_moka/_5_by_moka/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/d87d699381e323513ff62df4ef7c729bee0aac0c.mp3"
+  },
+  {
+    "name": "Tda - Emotions",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/sex_killer_b_sam/sam/expression.vmd",
+    "camMotionFile": "otaku/sex_killer_b_tda/tda/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/87b791405ec50a298f8428728b6877e2cba15747.mp3"
+  },
+  {
+    "name": "Sweet Devil ββ  (Live Concert) by GentleWhiteCat 精品 - SweetDevil_Face",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_sweet_devil_sweet_devil_liv/sweet_devil_live_conce/main_2.vmd",
+    "camMotionFile": "otaku/vocaloid_p_sweet_devil_sweet_devil_liv/sweet_devil_live_conce/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/7507eb5a41823348176674fb963532abdecf6b4c.mp3"
+  },
+  {
+    "name": "Dreamin 表情",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_emon_tes_dreamin_chuchu_dream/dreamin_/main.vmd",
+    "expressionMotionFile": "otaku/vocaloid_emon_tes_dreamin_chuchu_dream/dreamin_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/10db58940f30c1404f801130bab8ff11f59017cc.mp3"
+  },
+  {
+    "name": "新宝島ステップ",
+    "group": "宅舞",
+    "modelMotionFile": "otaku//_/main_14.vmd"
+  },
+  {
+    "name": "基本モーション - Happy Halloweenリップ歌詞",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_junky_happy_halloween_happy_h/_happy_halloween_/main.vmd",
+    "expressionMotionFile": "otaku/vocaloid_junky_happy_halloween_happy_h/_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/81e4ab9531ee374b713f25010dd54f76f2f341e5.mp3"
+  },
+  {
+    "name": "咲夜 - ときおふぁんかフル（咲夜扇子）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_takamatt_tokio_funka_delay_0_/_/main_7.vmd",
+    "camMotionFile": "otaku/vocaloid_takamatt_tokio_funka_delay_0_/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/2b7641d6b34f3bf6a21c89953c7a85008bc52da9.mp3"
+  },
+  {
+    "name": "光岡昌美 - ダメよ 精品 - リップモーション",
+    "group": "宅舞",
+    "modelMotionFile": "otaku//_/main_16.vmd",
+    "camMotionFile": "otaku//_/camera_5.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/8d1b38ec34fc82fcef6cbddd5b5e950ea132f525.mp3"
+  },
+  {
+    "name": "おまけ",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_crusher_p_echo_echo_stormzex_/_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/7e7aa200c97e86b20bc4870aff01127c07ac57c5.mp3"
+  },
+  {
+    "name": "三日月 - ときおふぁんかフル（三日月扇子）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_takamatt_tokio_funka_delay_0_/_/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/2b7641d6b34f3bf6a21c89953c7a85008bc52da9.mp3"
+  },
+  {
+    "name": "金剛 - ときおふぁんかフル（金剛扇子）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_takamatt_tokio_funka_delay_0_/_/main_11.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/2b7641d6b34f3bf6a21c89953c7a85008bc52da9.mp3"
+  },
+  {
+    "name": "KiLLER LADY REMIX 多人ver モーションセット0112改 - KLRリップシンク",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_p_killer_lady_killer_lady_rem/killer_lady_remix_ver_/main_5.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/ecbc7e473a4e8ac865586ded02e1a3bdaf926fae.mp3"
+  },
+  {
+    "name": "神風 - ときおふぁんかフル（神風扇子）",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_takamatt_tokio_funka_delay_0_/_/main_9.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/2b7641d6b34f3bf6a21c89953c7a85008bc52da9.mp3"
+  },
+  {
+    "name": "アニメ「ポプテピピック」-牧野由依,渡部優衣 - 恋して♥ポプテピピック - Face_by閃爍P",
+    "group": "宅舞",
+    "modelMotionFile": "otaku//_face_by_p/main.vmd",
+    "camMotionFile": "otaku//_/camera_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions39/audio/e713e8a8206e564c81cb4e401c83a33ad6518baf.mp3"
+  },
+  {
+    "name": "【おまけ】「目」調整用＋カメラup_down - ■細目モデル用：両目",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_atols_up_down/_up_down_/main.vmd",
+    "camMotionFile": "otaku/vocaloid_atols_up_down/_up_down/camera.vmd"
+  },
+  {
+    "name": "【おまけ】「目」「腕」調整用 - ■細目モデル用：両目(表)",
+    "group": "宅舞",
+    "modelMotionFile": "otaku/vocaloid_atols/_/main_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions38/audio/a2a2a27e3b066b3cdaabcd349560e0d9322661e1.mp3"
+  }
+]
